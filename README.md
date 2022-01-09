@@ -13,10 +13,7 @@ This application is an assignment included in the fintech bootcamp curriculum by
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
-This application was written using Python and WindowsOS. There are three main modules of the application
-
-This application was made using Python (v3.7.0) and WindowsOS (v20H2) as well as the following Python libraries: 
+This application was made using Python (v3.7.0), WindowsOS (v20H2), Git Bash, and Visual Studio Code as well as the following Python libraries: 
     sys, fire, questionary, pathlib, csv
 
 There are three main modules that make up this app.
@@ -31,8 +28,6 @@ The final module, app.py, is located in the main loan_qualifer_app folder. This 
 ---
 
 ## Installation Guide
-
-In this section, you should include detailed installation notes containing code blocks and screenshots.
 
 Filters Module
 
@@ -64,8 +59,6 @@ App Module
 ---
 
 ## Usage
-
-This section should include screenshots, code blocks, or animations explaining how to use your project.
 
 1. Open terminal, navigate to the loan_qualifier_app directory, and run the app.py using python
 

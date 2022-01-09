@@ -35,13 +35,25 @@ The final module, app.py, is located in the main loan_qualifer_app folder. This 
 In this section, you should include detailed installation notes containing code blocks and screenshots.
 
 Filters Module
+
+Credit Score Filter
 ![Filter_Image_1](https://user-images.githubusercontent.com/63683699/148701586-6cd37a4c-7060-4e85-80a1-991b4973791a.jpg)
+
+Debt-to-Income Filter
 ![Filter_Image_2](https://user-images.githubusercontent.com/63683699/148701589-0b82e007-1a27-443c-bb90-a5f1b0e43a16.jpg)
+
+Loan-to-Value Filter
 ![Filter_Image_3](https://user-images.githubusercontent.com/63683699/148701590-94184646-b4e7-4f5b-8995-ddf5d7e5b697.jpg)
+
+Max Loan Size Filter
 ![Filter_Image_4](https://user-images.githubusercontent.com/63683699/148701591-c3c436cb-c2ea-4399-b9fa-f3e46d90e41b.jpg)
 
 Utils Module
+
+Ratio Calculators
 ![Utils_Image_1](https://user-images.githubusercontent.com/63683699/148701608-67de830c-4dc2-460d-83a0-81d2fffb6328.jpg)
+
+CSV Functions
 ![Utils_Image_2](https://user-images.githubusercontent.com/63683699/148701610-cfc00ea1-03cc-4209-bc2e-16454542e79f.jpg)
 
 App Module

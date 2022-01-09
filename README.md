@@ -34,6 +34,21 @@ The final module, app.py, is located in the main loan_qualifer_app folder. This 
 
 In this section, you should include detailed installation notes containing code blocks and screenshots.
 
+Filters Module
+![Filter_Image_1](https://user-images.githubusercontent.com/63683699/148701586-6cd37a4c-7060-4e85-80a1-991b4973791a.jpg)
+![Filter_Image_2](https://user-images.githubusercontent.com/63683699/148701589-0b82e007-1a27-443c-bb90-a5f1b0e43a16.jpg)
+![Filter_Image_3](https://user-images.githubusercontent.com/63683699/148701590-94184646-b4e7-4f5b-8995-ddf5d7e5b697.jpg)
+![Filter_Image_4](https://user-images.githubusercontent.com/63683699/148701591-c3c436cb-c2ea-4399-b9fa-f3e46d90e41b.jpg)
+
+Utils Module
+![Utils_Image_1](https://user-images.githubusercontent.com/63683699/148701608-67de830c-4dc2-460d-83a0-81d2fffb6328.jpg)
+![Utils_Image_2](https://user-images.githubusercontent.com/63683699/148701610-cfc00ea1-03cc-4209-bc2e-16454542e79f.jpg)
+
+App Module
+![App_Image_1](https://user-images.githubusercontent.com/63683699/148701579-be04d2bc-c6d9-46b9-8deb-c281c3423875.jpg)
+![App_Image_2](https://user-images.githubusercontent.com/63683699/148701577-2cb0477d-9fd8-4706-9e0a-6963470cf3d5.jpg)
+![App_Image_3](https://user-images.githubusercontent.com/63683699/148701578-39290850-7141-44cd-bbaf-5e71d439c132.jpg)
+
 ---
 
 ## Usage

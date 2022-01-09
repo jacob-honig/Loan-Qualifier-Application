@@ -60,6 +60,9 @@ This section should include screenshots, code blocks, or animations explaining h
 
 ![Step_5](https://user-images.githubusercontent.com/63683699/148700996-00216436-13a9-4934-9915-a1e4c27136b9.jpg)
 
+6. The application is complete!
+
+![Step_6](https://user-images.githubusercontent.com/63683699/148701028-b72a21dd-324c-4b13-928d-637a7d3a83e2.jpg)
 
 ---
 
